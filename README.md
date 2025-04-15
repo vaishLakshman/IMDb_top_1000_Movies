@@ -1,4 +1,4 @@
-# 🎬 IMDb Top 1000 Movies – SQL Analysis Project
+![image](https://github.com/user-attachments/assets/79281d02-4441-4af9-8d95-4ccad37d001f)# 🎬 IMDb Top 1000 Movies – SQL Analysis Project
 
 ## 📌 Objective
 Analyze the top 1000 IMDb-rated movies to extract insights on genres, ratings, directors, and revenue using SQL.
@@ -20,8 +20,12 @@ Analyze the top 1000 IMDb-rated movies to extract insights on genres, ratings, d
 - `results/`: CSV outputs of each query
 
 ## 📈 Sample Insights
-- 🎭 Drama is the most common genre
-- 🎬 Christopher Nolan has the highest number of top-rated films
+- 🎭 **Drama** is the most common genre
+- 💰**Star Wars: Episode VII - The Force Awakens** is the highest grossing movie
+- 📊 **The Shawshank Redemption** has the highest IMDb rating
+- 🎬 **Christopher Nolan** has the highest number of top-rated films
+- 🎬 **Alfred Hitchcock** has directed the most number of movies
+- 🎭 **Tom Hanks** has acted the most number of movies
 
 ## 🧪 How to Run
 1. Load the dataset from `data/` into MySQL
