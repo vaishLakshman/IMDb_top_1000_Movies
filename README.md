@@ -1,4 +1,4 @@
-# 🎬 IMDb Top 1000 Movies – SQL Analysis Project
+# 🎬 IMDb Top 1000 Movies – SQL Metrics & KPIs Analysis
 
 ## 📌 Objective
 Analyze the top 1000 IMDb-rated movies to extract insights on genres, ratings, directors, and revenue using SQL.
