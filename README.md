@@ -1,4 +1,4 @@
-# 🎬 IMDb Top 1000 Movies – SQL Metrics & KPIs Analysis
+# 🎬 EDA of IMDb's Top 1000 movies from 1920 to 2020 using SQL
 
 ## 📌 Objective
 Analyze the top 1000 IMDb-rated movies to extract insights on genres, ratings, directors, and revenue using SQL.
